@@ -39,6 +39,7 @@ Secondary / Diagnostic Metric
 Before testing outcomes, the traffic split is verified against the intended allocation (assumed 50/50). A chi-square goodness-of-fit test is used:
 
 Chi-square statistic:
+
 χ² = Σᵢ (Oᵢ − Eᵢ)² / Eᵢ
 
 
