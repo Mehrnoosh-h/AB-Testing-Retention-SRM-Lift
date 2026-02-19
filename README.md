@@ -115,9 +115,9 @@ Day-7 retention
 ## 5) Visualization
 
 Place the retention lift chart here:
-<p align="center">
-  <img width="1175" height="748" alt="image" src="https://github.com/user-attachments/assets/916b7
 
+<p align="center">
+  <img width="1182" height="753" alt="image" src="https://github.com/user-attachments/assets/1a451492-de72-4b1e-a285-92fb25fa3563" />
 
 ---
 
