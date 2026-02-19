@@ -117,7 +117,7 @@ Day-7 retention
 <p align="center">
   <img width="1182" height="753" alt="image" src="https://github.com/user-attachments/assets/1a451492-de72-4b1e-a285-92fb25fa3563" />
        alt="image"
-       style="width:400px; max-width:80%; height:auto;" />
+       style="width:300px; max-width:70%; height:auto;" />
 </p>
 
 
@@ -130,11 +130,7 @@ The retention lift chart shows the estimated change in retention when moving fro
 Place the final summary table here:
   
 <p align="center">
-  <img width="1200" height="80" alt="image" src="https://github.com/user-attachments/assets/acf44cbb-675b-46fa-89b9-e100869c1797" <p align="center"
-    width="600"
-     alt="Summary table"
-       style="width:40%; height:auto;" />
-</p>
+  <img width="1200" height="80" alt="image" src="https://github.com/user-attachments/assets/acf44cbb-675b-46fa-89b9-e100869c1797" <p align="center">
 
 ---
 
