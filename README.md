@@ -38,9 +38,9 @@ Secondary / Diagnostic Metric
 ### 3.1 SRM (Sample Ratio Mismatch) Check
 Before testing outcomes, the traffic split is verified against the intended allocation (assumed 50/50). A chi-square goodness-of-fit test is used:
 
-\[
-\chi^2=\sum_i \frac{(O_i - E_i)^2}{E_i}
-\]
+Chi-square statistic:
+χ² = Σᵢ (Oᵢ − Eᵢ)² / Eᵢ
+
 
 ### 3.2 Retention Tests (Two-Proportion Z-Test)
 For each retention metric, the following hypotheses are tested:
