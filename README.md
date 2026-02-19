@@ -1,4 +1,4 @@
-# Cookie Cats A/B Test — Gate Move (Level 30 → 40)
+## Cookie Cats A/B Test — Gate Move (Level 30 → 40)
 
 Beginner-to-solid A/B testing project using real mobile game data. The impact of moving the in-game “gate” from level 30 (control) to level 40 (treatment) is evaluated on 1-day and 7-day retention, with effect sizes, confidence intervals, and practical impact.
 
