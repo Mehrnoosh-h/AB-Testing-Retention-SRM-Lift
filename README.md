@@ -115,7 +115,7 @@ Day-7 retention
 ## 5) Visualization
 
 <p align="center">
-  <img width="1182" height="753" alt="image" src="https://github.com/user-attachments/assets/1a451492-de72-4b1e-a285-92fb25fa3563" />
+  <img width="1182" height="753" alt="image" src="https://github.com/user-attachments/assets/1a451492-de72-4b1e-a285-92fb25fa3563" 
        alt="image"
        style="width:300px; max-width:70%; height:auto;" />
 
