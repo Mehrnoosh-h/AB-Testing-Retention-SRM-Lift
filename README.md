@@ -124,9 +124,6 @@ Place the retention lift chart here:
 ## 6) Final Summary Table
 
 Place the final summary table here:
-
-- results/ab_summary_table.csv
-- or a markdown table pasted below
   
 <p align="center">
   <img width="1456" height="113" alt="image" src="https://github.com/user-attachments/assets/acf44cbb-675b-46fa-89b9-e100869c1797" />
