@@ -117,7 +117,7 @@ Day-7 retention
 <p align="center">
   <img width="1182" height="753" alt="image" src="https://github.com/user-attachments/assets/1a451492-de72-4b1e-a285-92fb25fa3563" 
        alt="image"
-       style="width:500px; max-width:100%; height:auto;" />
+       style="width:700px; max-width:100%; height:auto;" />
 
 
 The retention lift chart shows the estimated change in retention when moving from gate_30 (control) to gate_40 (treatment). Each bar is the absolute lift (gate_40 − gate_30) for Day-1 and Day-7 retention, and the vertical error bars show the 95% confidence interval. Values below zero indicate lower retention under gate_40. In this experiment, the Day-1 lift is slightly negative but its confidence interval crosses zero (inconclusive), while the Day-7 lift is negative and its confidence interval stays below zero, indicating a statistically reliable decrease in 7-day retention with the gate moved to level 40.
