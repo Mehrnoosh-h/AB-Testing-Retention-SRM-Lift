@@ -115,8 +115,9 @@ Day-7 retention
 ## 5) Visualization
 
 Place the retention lift chart here:
+<p align="center">
+  <img width="1175" height="748" alt="image" src="https://github.com/user-attachments/assets/916b7
 
-- plots/retention_lift_ci.png
 
 ---
 
@@ -126,8 +127,10 @@ Place the final summary table here:
 
 - results/ab_summary_table.csv
 - or a markdown table pasted below
-
-[PASTE SUMMARY TABLE HERE]
+  
+<p align="center">
+  <img width="1456" height="113" alt="image" src="https://github.com/user-attachments/assets/acf44cbb-675b-46fa-89b9-e100869c1797" />
+</p>
 
 ---
 
