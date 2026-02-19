@@ -126,7 +126,7 @@ Place the retention lift chart here:
 Place the final summary table here:
   
 <p align="center">
-  <img width="1456" height="113" alt="image" src="https://github.com/user-attachments/assets/acf44cbb-675b-46fa-89b9-e100869c1797" width="700" alt="Retention lift with 95% CI" />
+  <img width="1456" height="113" alt="image" src="https://github.com/user-attachments/assets/acf44cbb-675b-46fa-89b9-e100869c1797" width="400" alt="Retention lift with 95% CI" />
 </p>
 
 ---
