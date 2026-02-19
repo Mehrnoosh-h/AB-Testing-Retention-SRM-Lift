@@ -130,7 +130,10 @@ The retention lift chart shows the estimated change in retention when moving fro
 Place the final summary table here:
   
 <p align="center">
-  <img width="1200" height="80" alt="image" src="https://github.com/user-attachments/assets/acf44cbb-675b-46fa-89b9-e100869c1797" <p align="center">
+  <img width="1200" height="80" alt="image" src="https://github.com/user-attachments/assets/acf44cbb-675b-46fa-89b9-e100869c1797" <p align="center"
+   width="300"
+       alt="Summary table" />
+</p>
 
 ---
 
